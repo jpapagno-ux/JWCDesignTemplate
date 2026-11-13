@@ -1,98 +1,68 @@
 [
 {
-"name": "room-nihi-06",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68584224164b231f0a173847_NIHI_SUMBA__VillaRahasia_Exterior.webp",
-"file": "68584224164b231f0a173847_NIHI_SUMBA__VillaRahasia_Exterior.w",
-"w": 1100
+"name": "n2-hillrise",
+"url": "https://nihi.com/sumba/wp-content/uploads/sites/2/2026/02/nihi-sumba-hillrise-villa-pool-ocean-view-1.jpg",
+"file": "nihi-sumba-hillrise-villa-pool-ocean-view-1.jpg",
+"w": 1500
 },
 {
-"name": "room-nihi-08",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68584ca3da06085d402d979f_NIHI_SUMBA_PuncakSumbaHouse_Exterior2.webp",
-"file": "68584ca3da06085d402d979f_NIHI_SUMBA_PuncakSumbaHouse_Exterio",
-"w": 1100
+"name": "n2-hillrise-b",
+"url": "https://nihi.com/sumba/wp-content/webp-express/webp-images/uploads/sites/2/2026/02/nihi-sumba-hillrise-villa-ocean-view.jpg.webp",
+"file": "nihi-sumba-hillrise-villa-ocean-view.jpg.webp",
+"w": 1500
 },
 {
-"name": "room-nihi-10",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/685852587bfcad97add97e8e_NIHI_SUMBA_PutriKasambi_Exterior2.webp",
-"file": "685852587bfcad97add97e8e_NIHI_SUMBA_PutriKasambi_Exterior2.w",
-"w": 1100
+"name": "n2-dete",
+"url": "https://nihi.com/sumba/wp-content/webp-express/webp-images/uploads/sites/2/2026/11/nihi-sumba-puncak-dete-villa-pool-ocean-view-1536x1024.jpg.webp",
+"file": "nihi-sumba-puncak-dete-villa-pool-ocean-view-1536x",
+"w": 1500
 },
 {
-"name": "room-nihi-12",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/685853e4114635691339fbde_NIHI_SUMBA_PutriWamoroJungle_Exterior.webp",
-"file": "685853e4114635691339fbde_NIHI_SUMBA_PutriWamoroJungle_Exteri",
-"w": 1100
+"name": "n2-dete-b",
+"url": "https://nihi.com/sumba/wp-content/uploads/sites/2/2026/11/nihi-sumba-puncak-dete-villa-bedroom.jpg",
+"file": "nihi-sumba-puncak-dete-villa-bedroom.jpg",
+"w": 1500
 },
 {
-"name": "room-nihi-13",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68584f347bfcad97add87666_NIHI_SUMBA_PutriLantoro_Exterior.webp",
-"file": "68584f347bfcad97add87666_NIHI_SUMBA_PutriLantoro_Exterior.we",
-"w": 1100
+"name": "bb-otemanu-1",
+"url": "https://www.leborabora.com/_novaimg/6068639-1635149_0_0_1000_1240_1209_1500.jpg",
+"file": "6068639-1635149_0_0_1000_1240_1209_1500.jpg",
+"w": 1500
 },
 {
-"name": "room-nihi-14",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68585559a2f682f554d06208_NIHI_SUMBA_PutriWamoroBeach_Exterior.webp",
-"file": "68585559a2f682f554d06208_NIHI_SUMBA_PutriWamoroBeach_Exterio",
-"w": 1100
+"name": "bb-otemanu-2",
+"url": "https://www.leborabora.com/_novaimg/6068727-1635150_0_0_1620_1080_1500_1000.jpg",
+"file": "6068727-1635150_0_0_1620_1080_1500_1000.jpg",
+"w": 1500
 },
 {
-"name": "room-nihi-16",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68584bc0298489d35be408f0_NIHI_SUMBA_RajaMandaka_Exterior2.webp",
-"file": "68584bc0298489d35be408f0_NIHI_SUMBA_RajaMandaka_Exterior2.we",
-"w": 1100
+"name": "bb-otemanu-3",
+"url": "https://www.leborabora.com/_novaimg/6068728-1635151_0_0_1621_1080_1500_999.jpg",
+"file": "6068728-1635151_0_0_1621_1080_1500_999.jpg",
+"w": 1500
 },
 {
-"name": "room-nihi-18",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68587912a843a44eab31017c_NIHI_SUMBA_WamaroEstate_Aeriel.webp",
-"file": "68587912a843a44eab31017c_NIHI_SUMBA_WamaroEstate_Aeriel.webp",
-"w": 1100
+"name": "bb-lagoon-1",
+"url": "https://www.leborabora.com/_novaimg/6072338-1638595_0_0_1920_1080_2200_1237.jpg",
+"file": "6072338-1638595_0_0_1920_1080_2200_1237.jpg",
+"w": 1500
 },
 {
-"name": "room-nihi-20",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/685873fbc09113ea70cd1ba9_NIHI_SUMBA_PuncakIndianOceanEstate_Exterior3.webp",
-"file": "685873fbc09113ea70cd1ba9_NIHI_SUMBA_PuncakIndianOceanEstate_",
-"w": 1100
+"name": "bb-resort-1",
+"url": "https://www.leborabora.com/_novaimg/6056106-1634776_0_0_1000_1240_1209_1500.jpg",
+"file": "6056106-1634776_0_0_1000_1240_1209_1500.jpg",
+"w": 1500
 },
 {
-"name": "room-le-00",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68dd652d076c18f1479799f7_le-taha-a-by-pearl-resorts-pool-beach-villa-bedroom.avif",
-"file": "68dd652d076c18f1479799f7_le-taha-a-by-pearl-resorts-pool-bea",
-"w": 1100
+"name": "bb-resort-2",
+"url": "https://www.leborabora.com/_novaimg/6063111-1634780_0_0_1000_1240_1209_1500.jpg",
+"file": "6063111-1634780_0_0_1000_1240_1209_1500.jpg",
+"w": 1500
 },
 {
-"name": "room-le-01",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68dd68b3ebfe82b525e22032_le-taha-a-by-pearl-resorts-taha-a-overwater-suite.avif",
-"file": "68dd68b3ebfe82b525e22032_le-taha-a-by-pearl-resorts-taha-a-o",
-"w": 1100
-},
-{
-"name": "room-le-02",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68dd66bfe08dd37fa311cd44_le-taha-a-by-pearl-resorts-premium-pool-beach-villa.avif",
-"file": "68dd66bfe08dd37fa311cd44_le-taha-a-by-pearl-resorts-premium-",
-"w": 1100
-},
-{
-"name": "room-le-03",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68dd68655490bae14b567efc_le-taha-a-by-pearl-resorts-taha-a-premium-overwater-suite-bedroom.avif",
-"file": "68dd68655490bae14b567efc_le-taha-a-by-pearl-resorts-taha-a-p",
-"w": 1100
-},
-{
-"name": "room-le-04",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68dd66e8aa6be54f4523d4de_le-taha-a-by-pearl-resorts-end-of-pontoon-overwater-suite-bedroom.avif",
-"file": "68dd66e8aa6be54f4523d4de_le-taha-a-by-pearl-resorts-end-of-p",
-"w": 1100
-},
-{
-"name": "room-le-06",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/68dd665799492238bcb65cd5_le-taha-a-by-pearl-resorts-royal-pool-beach-villa.avif",
-"file": "68dd665799492238bcb65cd5_le-taha-a-by-pearl-resorts-royal-po",
-"w": 1100
-},
-{
-"name": "room-capella-00",
-"url": "https://cdn.prod.website-files.com/679d1c7de0254ea4d176361b/69847a32e085662d1c9a525b_Capella_Ubud_Accommodation_Terrace_Tent_Bedroom3.jpg",
-"file": "69847a32e085662d1c9a525b_Capella_Ubud_Accommodation_Terrace_",
-"w": 1100
+"name": "bb-pontoon-1",
+"url": "https://www.leborabora.com/_novaimg/6068609-1635144_0_0_1920_1080_1500_843.jpg",
+"file": "6068609-1635144_0_0_1920_1080_1500_843.jpg",
+"w": 1500
 }
 ]
