@@ -1,0 +1,22 @@
+name: JF-02 photo relay (temporary)
+on:
+  push:
+    branches: [jf02-photo-relay]
+    paths: ['relay/list.json', 'relay/fetch.mjs', '.github/workflows/jf02-photo-relay.yml']
+permissions:
+  contents: write
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm i --no-save sharp@0.33.5
+      - run: node relay/fetch.mjs
+      - run: |
+          git config user.name "jf02-photo-relay"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f relay/out
+          git commit -m "JF-02 photo relay: resized library photographs (temporary branch)"
+          git push
