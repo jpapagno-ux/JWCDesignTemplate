@@ -1,0 +1,11 @@
+n2-hillrise ok 1800x1200 nihi-sumba-hillrise-villa-pool-ocean-view-1.jpg
+n2-hillrise-b ok 1000x1500 nihi-sumba-hillrise-villa-ocean-view.jpg.webp
+n2-dete ok 1536x1024 nihi-sumba-puncak-dete-villa-pool-ocean-view-1536x
+n2-dete-b ok 1800x1200 nihi-sumba-puncak-dete-villa-bedroom.jpg
+bb-otemanu-1 ok 1000x1240 6068639-1635149_0_0_1000_1240_1209_1500.jpg
+bb-otemanu-2 ok 1500x1000 6068727-1635150_0_0_1620_1080_1500_1000.jpg
+bb-otemanu-3 ok 1499x999 6068728-1635151_0_0_1621_1080_1500_999.jpg
+bb-lagoon-1 FAIL fetch failed 6072338-1638595_0_0_1920_1080_2200_1237.jpg
+bb-resort-1 ok 1000x1240 6056106-1634776_0_0_1000_1240_1209_1500.jpg
+bb-resort-2 ok 1000x1240 6063111-1634780_0_0_1000_1240_1209_1500.jpg
+bb-pontoon-1 ok 1498x843 6068609-1635144_0_0_1920_1080_1500_843.jpg
